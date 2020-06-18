@@ -20,3 +20,12 @@ header{
 header .judul{
 	font-size: 17pt;
 }
+ 
+header .deskripsi{
+	font-size: 11pt;
+}
+ 
+.wrap {
+	width: 950px;
+	margin:25px auto;
+}
